@@ -15,7 +15,9 @@ Este é um projeto de um bot do Telegram desenvolvido em Python para ajudar os a
 
 Contribuições e melhorias são bem-vindas. Fique à vontade para abrir issues, enviar pull requests e compartilhar ideias para aprimorar este projeto.
 
-### Instruções de Uso:
+Procure pelo bot no Telegram e inicie a conversa para receber os lembretes!
+
+### Instruções para criar o seu próprio bot a partir desse
 1. Clone o repositório.
 2. Instale as dependências listadas no arquivo requirements.txt: `pip install -r requirements.txt`
 3. Configure o token do seu bot do Telegram no `botSIGA.py`
