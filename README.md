@@ -18,11 +18,9 @@ Contribuições e melhorias são bem-vindas. Fique à vontade para abrir issues,
 
 Para usar o Guardião do SIGA, siga estas etapas:
 
-1. Inicie o bot executando o arquivo `executa_bot_siga.bat`.
+1. Abra o aplicativo do Telegram e pesquise pelo nome do bot.
 
-2. Abra o aplicativo do Telegram e pesquise pelo nome do bot.
-
-3. Inicie uma conversa com o bot e siga as instruções fornecidas para configurar e receber os lembretes de inscrição no SIGA.
+2. Inicie uma conversa com o bot e siga as instruções fornecidas para configurar e receber os lembretes de inscrição no SIGA.
 
 Aproveite a conveniência de receber lembretes automáticos sobre as inscrições no SIGA com o Guardião do SIGA!
 
