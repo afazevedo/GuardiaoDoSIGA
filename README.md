@@ -17,8 +17,9 @@ Contribuições e melhorias são bem-vindas. Fique à vontade para abrir issues,
 
 Instruções de Uso:
 1. Clone o repositório.
-2. Instale as dependências listadas no arquivo requirements.txt.
-3. Configure o token do seu bot do Telegram no arquivo config.py.
+2. Instale as dependências listadas no arquivo requirements.txt (pip install -r requirements.txt)
+3. Configure o token do seu bot no script botSIGA.py.
 4. Execute o script botSIGA.py para iniciar o bot.
 
 Aproveite a conveniência de receber lembretes automáticos sobre as inscrições no SIGA com o Guardião do SIGA!
+
