@@ -21,4 +21,4 @@ Instruções de Uso:
 3. Configure o token do seu bot do Telegram no arquivo config.py.
 4. Execute o script botSIGA.py para iniciar o bot.
 
-Aproveite a conveniência de receber lembretes automáticos sobre as inscrições no SIGA com o SIGA Reminder Bot!
+Aproveite a conveniência de receber lembretes automáticos sobre as inscrições no SIGA com o Guardião do SIGA!
