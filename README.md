@@ -4,7 +4,7 @@ Este é um projeto de um bot do Telegram desenvolvido em Python para ajudar os a
 
 Recursos:
 - Consulta automática das datas de inscrição com base em um calendário acadêmico.
-- Envio diário de lembretes às 16:45 durante os períodos de inscrição.
+- Envio diário de lembretes às 17:30 durante os períodos de inscrição.
 - Configuração personalizada para diferentes períodos acadêmicos.
 - Comandos interativos para ativar e desativar os lembretes.
 
