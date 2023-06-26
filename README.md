@@ -16,7 +16,10 @@ Este é um projeto de um bot do Telegram desenvolvido em Python para ajudar os a
 Contribuições e melhorias são bem-vindas. Fique à vontade para abrir issues, enviar pull requests e compartilhar ideias para aprimorar este projeto.
 
 ### Instruções de Uso:
-1. Abra o arquivo `executa_bot_siga.bat` em um editor de texto.
+1. Clone o repositório.
+2. Instale as dependências listadas no arquivo requirements.txt: `pip install -r requirements.txt`
+3. Configure o token do seu bot do Telegram no `botSIGA.py`
+4. Abra o arquivo `executa_bot_siga.bat` em um editor de texto.
 
 Adicione o seguinte conteúdo ao arquivo para iniciar o bot:
 
@@ -28,11 +31,11 @@ python C:\caminho\para\o\repositorio\botSIGA.py
 Lembre-se de substituir `caminho\para\o\repositorio` pelo caminho real para o diretório do repositório clonado.
 Salve e feche o arquivo `executa_bot_siga.bat`.
 
-2. Pressione `Win + R` para abrir a janela `Executar`. Digite `shell:startup` e pressione Enter. Isso abrirá a pasta de inicialização do Windows.
+5. Pressione `Win + R` para abrir a janela `Executar`. Digite `shell:startup` e pressione Enter. Isso abrirá a pasta de inicialização do Windows.
 
-3. Mova o arquivo `executa_bot_siga.bat` para a pasta de inicialização. Agora, o bot será iniciado automaticamente sempre que você ligar o computador.
+6. Mova o arquivo `executa_bot_siga.bat` para a pasta de inicialização. Agora, o bot será iniciado automaticamente sempre que você ligar o computador.
 
-4. Abra o aplicativo do Telegram e pesquise pelo nome bot. Inicie uma conversa com o bot e siga as instruções fornecidas para configurar e receber os lembretes de inscrição no SIGA.
+7. Abra o aplicativo do Telegram e pesquise pelo nome bot. Inicie uma conversa com o bot e siga as instruções fornecidas para configurar e receber os lembretes de inscrição no SIGA.
 
 Aproveite a conveniência de receber lembretes automáticos sobre as inscrições no SIGA com o Guardião do SIGA!
 
