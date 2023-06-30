@@ -1,1 +1,1 @@
-worker: python botSIGA.py
+web: gunicorn server:app
